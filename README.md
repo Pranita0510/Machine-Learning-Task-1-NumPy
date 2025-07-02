@@ -4,11 +4,17 @@ This Jupyter Notebook provides a comprehensive introduction to NumPy, the core l
 
 🔍 Topics Covered:
 *NumPy array creation
+
 *Array indexing and slicing
+
 *Array operations (arithmetic, broadcasting)
+
 *Statistical functions (mean, median, std, etc.)
+
 *Reshaping and flattening arrays
+
 *Working with multi-dimensional arrays
+
 *Useful NumPy functions for data analysis
 
 📌 Prerequisites:
