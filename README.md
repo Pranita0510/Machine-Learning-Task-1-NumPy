@@ -3,6 +3,7 @@
 This Jupyter Notebook provides a comprehensive introduction to NumPy, the core library for numerical and scientific computing in Python.
 
 🔍 Topics Covered:
+
 *NumPy array creation
 
 *Array indexing and slicing
@@ -18,6 +19,7 @@ This Jupyter Notebook provides a comprehensive introduction to NumPy, the core l
 *Useful NumPy functions for data analysis
 
 📌 Prerequisites:
+
 *Basic understanding of Python
 
 *Jupyter Notebook installed
@@ -25,4 +27,5 @@ This Jupyter Notebook provides a comprehensive introduction to NumPy, the core l
 *NumPy installed (pip install numpy)
 
 💡 Usage:
+
 This notebook is ideal for students, data scientists, and developers who want to strengthen their foundation in array-based operations with NumPy.
