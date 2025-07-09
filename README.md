@@ -18,13 +18,6 @@ This Jupyter Notebook provides a comprehensive introduction to NumPy, the core l
 
 *Useful NumPy functions for data analysis
 
-📌 Prerequisites:
-
-*Basic understanding of Python
-
-*Jupyter Notebook installed
-
-*NumPy installed (pip install numpy)
 
 💡 Usage:
 
